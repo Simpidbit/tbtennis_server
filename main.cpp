@@ -1,0 +1,7 @@
+#include "simskt.h"
+
+
+int main()
+{
+    return 0;
+}
